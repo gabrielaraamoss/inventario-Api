@@ -1,0 +1,11 @@
+/Users/gabrielaramos/Proyecto Banco Gye/InventarioApi/Inventario.Domain/bin/Debug/net8.0/Inventario.Domain.deps.json
+/Users/gabrielaramos/Proyecto Banco Gye/InventarioApi/Inventario.Domain/bin/Debug/net8.0/Inventario.Domain.dll
+/Users/gabrielaramos/Proyecto Banco Gye/InventarioApi/Inventario.Domain/bin/Debug/net8.0/Inventario.Domain.pdb
+/Users/gabrielaramos/Proyecto Banco Gye/InventarioApi/Inventario.Domain/obj/Debug/net8.0/Inventario.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielaramos/Proyecto Banco Gye/InventarioApi/Inventario.Domain/obj/Debug/net8.0/Inventario.Domain.AssemblyInfoInputs.cache
+/Users/gabrielaramos/Proyecto Banco Gye/InventarioApi/Inventario.Domain/obj/Debug/net8.0/Inventario.Domain.AssemblyInfo.cs
+/Users/gabrielaramos/Proyecto Banco Gye/InventarioApi/Inventario.Domain/obj/Debug/net8.0/Inventario.Domain.csproj.CoreCompileInputs.cache
+/Users/gabrielaramos/Proyecto Banco Gye/InventarioApi/Inventario.Domain/obj/Debug/net8.0/Inventario.Domain.dll
+/Users/gabrielaramos/Proyecto Banco Gye/InventarioApi/Inventario.Domain/obj/Debug/net8.0/refint/Inventario.Domain.dll
+/Users/gabrielaramos/Proyecto Banco Gye/InventarioApi/Inventario.Domain/obj/Debug/net8.0/Inventario.Domain.pdb
+/Users/gabrielaramos/Proyecto Banco Gye/InventarioApi/Inventario.Domain/obj/Debug/net8.0/ref/Inventario.Domain.dll
